@@ -1,6 +1,9 @@
 # hello-gh-pages
 
-I use this repository to practice GitHub Pages function.
+I use this repository to practice following functions.
+
+- GitHub Pages
+- Pull request
 
 =====
 
